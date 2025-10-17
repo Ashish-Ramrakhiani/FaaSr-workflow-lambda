@@ -38,8 +38,8 @@
         }
     },
     "ActionContainers": {
-        "rfunc": "faasr/aws-lambda-r:dev",
-        "rfunc2": "ramrakha/slurm-r:dev"
+        "rfunc": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r",
+        "rfunc2": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r"
     },
     "FunctionCRANPackage": {
         "r_log": [
