@@ -38,8 +38,8 @@
         }
     },
     "ActionContainers": {
-        "rfunc": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r:latest",
-        "rfunc2": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r:latest"
+        "rfunc": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r:2.0.2",
+        "rfunc2": "145342739029.dkr.ecr.us-east-1.amazonaws.com/aws-lambda-r:2.0.2"
     },
     "FunctionCRANPackage": {
         "r_log": [
@@ -55,5 +55,5 @@
     "DefaultDataStore": "My_S3_Bucket",
     "InvocationID": "1234",
     "InvocationIDFromDate": "%Y%m%d%H%M",
-    "WorkflowName": "test-lambda"
+    "WorkflowName": "test-lam"
 }
